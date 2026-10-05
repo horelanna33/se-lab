@@ -9,6 +9,7 @@ import java.util.Random;
 */
 public class TorpedoStore {
 
+  //this will simulate random overheating
   private Random generator = new Random();
 
   // rate of failing to fire torpedos [0.0, 1.0]
